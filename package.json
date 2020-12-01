@@ -1,0 +1,23 @@
+{
+  "name": "fastify-bootstrap",
+  "version": "1.0.0",
+  "description": "Fastify API bootstrap template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiangarga/fastify-bootstrap.git"
+  },
+  "author": "Fabian Gargaglione",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiangarga/fastify-bootstrap/issues"
+  },
+  "homepage": "https://github.com/fabiangarga/fastify-bootstrap#readme",
+  "dependencies": {
+    "fastify": "^3.8.0"
+  }
+}
