@@ -4,7 +4,7 @@
   "description": "Fastify API bootstrap template",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Ok\"",
+    "test": "node build.js",
     "start": "node server.js"
   },
   "repository": {
